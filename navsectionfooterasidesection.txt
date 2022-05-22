@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<title>hello document</title>
+</head>
+<body>
+    <header> <h1> Bhag bhutni k  </h1></header>
+    <nav>
+        <a href="#actor" id="nav-actor"> Actors </a> 
+    <a href="#quote" id="nav-quote"> Quotes </a>
+</nav>
+      
+       <details>
+           <summary>The plot of movie</summary>
+      <p> Mr siddique has played a very genune role </p>
+       </details>
+       
+           <section id="actor">The actor is n awazudin sidqi</section>
+           <section id="quote"> His quote is "Always learn from the failure " </section>
+    
+       
+       
+    <aside>
+        <p>The IMBD rating of movie is 4.5 </p>
+       <p>The release date is 22/05/2022</p>
+    </aside>
+
+       <footer>Produced by: rrr</footer>
+
+</body>

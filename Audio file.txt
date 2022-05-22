@@ -1,0 +1,41 @@
+<html>
+    <head>
+        <title>Nav&Video</title>
+       
+    </head>
+    <body>
+
+        <ul>
+        <a href="https://www.w3schools.com/default.asp">Home </a> |
+        
+        <a href="https://www.w3schools.com/about/default.asp"> About Us </a>|
+        
+        <a href="https://www.w3schools.com/"> Contact us </a>
+        </ul>
+    </nav>
+    
+
+    <h1> 3 random audios </h1>
+    <ul>
+       <audio controls>
+    <source src="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+<audio controls>
+    <source src="http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg" type="audio/ogg">
+  Your browser does not support the audio element.
+</audio>
+
+ <audio controls>
+    <source src="http://codeskulptor-demos.commondatastorage.googleapis.com/pang/paza-moduless.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+  </ul>
+
+
+
+
+
+
+    </body>
